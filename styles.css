@@ -5,4 +5,13 @@ body (
     margin-top: 30vh;
     )
     .enter-button ( 
-        
+        margin-top: 10vh;
+        display: block;
+        color: blue;
+        text-decoration: white; 
+        font size: 36px;
+        )
+        .enter-button:hover (
+            color: orange;
+            cursor:pointer;
+            )
